@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Presence</string>
+    <string name="Take_Attendance" />
+    <string name="View_Attendance" />
+</resources>
